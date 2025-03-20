@@ -1,4 +1,4 @@
-# To-Do App  
+# Todo_App  
 🔗 **Live Demo:** https://todo-app-two-eta-81.vercel.app/ 
 
 A simple React app to manage tasks efficiently with add, delete, and mark-as-done features. Fully responsive and optimized for 5+ screen sizes.  
