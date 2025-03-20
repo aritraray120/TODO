@@ -1,4 +1,4 @@
-# Todo_App  
+# TODO  
 🔗 **Live Demo:** https://todo-app-opal-pi-89.vercel.app/
 
 A simple React app to manage tasks efficiently with add, delete, and mark-as-done features. Fully responsive and optimized for 5+ screen sizes.  
