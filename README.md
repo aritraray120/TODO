@@ -10,7 +10,7 @@ A simple React app to manage tasks efficiently with add, delete, and mark-as-don
 ✅ Smooth and fast performance  
 
 ## 🛠 Tech Stack  
-- **React.js** – Frontend framework  
+- **React.js** – Frontend library    
 - **Tailwind CSS** – Styling  
 - **JavaScript (ES6+)** – Logic handling  
 
