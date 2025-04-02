@@ -3,12 +3,6 @@
 
 A simple React app to manage tasks efficiently with add, delete, and mark-as-done features. Fully responsive and optimized for 5+ screen sizes.  
 
-## 🚀 Features  
-✅ Add, delete, and mark tasks as done  
-✅ Clean and minimal UI  
-✅ Fully responsive across 5+ screen sizes  
-✅ Smooth and fast performance  
-
 ## 🛠 Tech Stack  
 - **React.js** – Frontend library    
 - **Tailwind CSS** – Styling  
