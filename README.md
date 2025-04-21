@@ -1,7 +1,7 @@
 # TODO  
 🔗 **Live Demo:** https://todo-app-opal-pi-89.vercel.app/
 
-A simple React app to manage tasks efficiently with add, delete, and mark-as-done features. Fully responsive and optimized for 5+ screen sizes.  
+A responsive TODO app developed in React.js, enabling task creation, completion, and deletion, with a perfect 100/100 Lighthouse score.
 
 ## 🛠 Tech Stack  
 - **React.js** – Frontend library    
